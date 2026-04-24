@@ -19,3 +19,7 @@ git clone https://github.com/aneequrrehman/what-would-garry-do ~/.claude/skills/
 ## License
 
 MIT
+
+---
+
+Created with Claude Code.
